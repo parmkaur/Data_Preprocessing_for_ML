@@ -34,8 +34,8 @@ I have explored many feature Engineering and Feature selection Techniques to Han
 select important features --> reduce curse of dimensionality
 
 **Steps to select best features**
-Drop constant features using variance threshold
-Drop features with high Correlation
-Chisquare for comapring categorical features
+- Drop constant features using variance threshold
+- Drop features with high Correlation
+- Chisquare for comapring categorical features
 
 Datasets credit: Kaggle
